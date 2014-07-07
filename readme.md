@@ -12,6 +12,7 @@ The purpose of this exercise is to measure the candidate’s ability to satisfy 
 4. User should be able to search for news feed items.
 5. User should be able to see a listing of all news items from all feeds.
 6. Add any features / functionality that you would want in a feed reader.
+    + **A pull request must be made prior to the due date.**
 
 **Tip**
 
