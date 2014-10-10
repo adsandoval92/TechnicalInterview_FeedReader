@@ -6,7 +6,7 @@ The purpose of this exercise is to measure the candidate’s ability to satisfy 
 
 **Pre-Interview Requirements**
 
-1. Use should be able to register for an account.
+1. User should be able to register for an account.
 2. User should be able to subscribe to a news feed.
 3. User should be able to view items in a news feed.
 4. User should be able to search for news feed items.
@@ -16,7 +16,7 @@ The purpose of this exercise is to measure the candidate’s ability to satisfy 
 
 **Tip**
 
-It is NOT expected that this will be an enterprise ready web application. With that being said it is expected that this application will be intuitive to use. This should be something that you would use, or would encourage your friends to use. 
+It is NOT expected that this will be an enterprise ready web application. With that being said it is expected that this application will be intuitive to use. This should be something that you would use, or would encourage your friends to use.
 
 **You Will Need**
 
